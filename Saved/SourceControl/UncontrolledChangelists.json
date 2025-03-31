@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Materials/MaterialInstances/M_Standard_Inst.uasset",
+				"D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
