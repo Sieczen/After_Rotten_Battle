@@ -3038,3 +3038,464 @@ Sampler Limit: 32
 [2025.05.08-10.00.21:095][948]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
 [2025.05.08-10.00.21:095][949]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
 [2025.05.08-10.00.21:429][949]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: 74d...99b
+[2025.05.08-10.03.11:584][641]Cmd: TRANSACTION UNDO
+[2025.05.08-10.03.11:584][641]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.08-10.03.12:146][651]Cmd: TRANSACTION UNDO
+[2025.05.08-10.03.12:146][651]LogEditorTransaction: Undo Rotate Elements
+[2025.05.08-10.03.12:368][663]Cmd: TRANSACTION UNDO
+[2025.05.08-10.03.12:368][663]LogEditorTransaction: Undo Move Elements
+[2025.05.08-10.03.12:554][672]Cmd: TRANSACTION UNDO
+[2025.05.08-10.03.12:554][672]LogEditorTransaction: Undo Rotate Elements
+[2025.05.08-10.03.38:193][207]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.08-10.03.38:201][207]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.08-10.03.38:212][208]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.08-10.03.40:244][390]LogContentBrowser: Attempting asset rename: NewFolder -> Sword
+[2025.05.08-10.03.40:244][390]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.08-10.03.48:576][137]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.08-10.03.48:585][137]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.08-10.03.48:596][138]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.08-10.03.50:329][292]LogContentBrowser: Attempting asset rename: NewFolder -> Sword
+[2025.05.08-10.03.50:329][292]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.08-10.03.55:558][763]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.08-10.03.55:567][763]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.08-10.03.55:578][764]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.08-10.03.57:027][893]LogContentBrowser: Attempting asset rename: NewFolder -> Sword
+[2025.05.08-10.03.57:027][893]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.08-10.04.28:283][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.05.08-10.04.28:293][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Assets/My_Assets/AssetShow_Case/1/EW/KWK1YKX33Y5UE0OW8QJ1RU_Auto2
+[2025.05.08-10.04.28:293][750]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/KWK1YKX33Y5UE0OW8QJ1RU_Auto21E3C7B8C4CAFCDD1D98822933700C851.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/Autosaves/Game/__ExternalActors__/Assets/My_Assets/AssetShow_Case/1/EW/KWK1YKX33Y5UE0OW8QJ1RU_Auto2.uasset'
+[2025.05.08-10.04.28:294][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/My_Assets/AssetShow_Case' took 0.032
+[2025.05.08-10.04.28:294][750]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2025.05.08-10.04.28:294][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Main/Materials/MaterialInstances/Skull/Upper_Skull/MI_Skull_Upper] ([1] browsable assets)...
+[2025.05.08-10.04.28:294][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Materials/MaterialInstances/Skull/Upper_Skull/MI_Skull_Upper]
+[2025.05.08-10.04.28:295][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main/Materials/MaterialInstances/Skull/Upper_Skull/MI_Skull_Upper_Auto2
+[2025.05.08-10.04.28:295][750]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/MI_Skull_Upper_Auto214E80ED74B99224A4182388E99603C61.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/Autosaves/Game/Main/Materials/MaterialInstances/Skull/Upper_Skull/MI_Skull_Upper_Auto2.uasset'
+[2025.05.08-10.04.28:296][750]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.05.08-10.04.28:312][750]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6965.137207
+[2025.05.08-10.04.29:214][753]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-10.04.29:214][753]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6965.705566, Update Interval: 309.822083
+[2025.05.08-10.05.34:423][ 22]LogStreaming: Display: FlushAsyncLoading(918): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.08-10.05.34:471][ 22]LogInterchangeEngine: Display: Interchange start importing source [D:/Users/taoma/Desktop/Do portfolio/3D/Blender/Obiekty/Broń_Biała/Miecze/Miecz_1/Miecz_LP.fbx]
+[2025.05.08-10.10.07:108][ 22]LogDerivedDataCache: C:/Users/taoma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.08-10.11.59:735][ 22]LogSlate: Window 'Import Content' being destroyed
+[2025.05.08-10.11.59:763][ 22]LogInterchangeEngine: [Pending] Importing
+[2025.05.08-10.11.59:793][ 22]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: 74d...99b
+[2025.05.08-10.11.59:793][ 22]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -205.6 RefreshExpires: 1.554e+07
+[2025.05.08-10.11.59:914][ 24]LogStreaming: Display: FlushAsyncLoading(923): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.08-10.11.59:927][ 25]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.05.08-10.11.59:995][ 26]LogStaticMesh: Display: Building static mesh Miecz_LP (Required Memory Estimate: 10.973128 MB)...
+[2025.05.08-10.12.00:025][ 26]LogStaticMesh: Adjacency [0.00s], tris: 7170, UVs 1
+[2025.05.08-10.12.00:035][ 26]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.05.08-10.12.00:036][ 26]LogStaticMesh: Leaves [0.00s]
+[2025.05.08-10.12.00:260][ 31]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 74d...99b Access[Expires: 2025.05.08-12.12.34 Remaining: 7200.54] Refresh[Expires: 2025-11-04T06:39:46.561Z Remaining: 15539232.56] State: Valid
+[2025.05.08-10.12.00:273][ 33]LogStaticMesh: Reduce [0.24s]
+[2025.05.08-10.12.00:347][ 39]LogStaticMesh: Fallback [0.07s], num tris: 678
+[2025.05.08-10.12.00:351][ 39]LogStaticMesh: ConstrainClusters:
+[2025.05.08-10.12.00:351][ 40]LogStaticMesh:   Input: 116 Clusters, 14602 Triangles and 12495 Vertices
+[2025.05.08-10.12.00:351][ 40]LogStaticMesh:   Output without splits: 116 Clusters, 14602 Triangles and 12609 Vertices
+[2025.05.08-10.12.00:351][ 40]LogStaticMesh:   Output with splits: 116 Clusters, 14602 Triangles and 12609 Vertices
+[2025.05.08-10.12.00:352][ 40]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 116, Slow Path Clusters: 0, 1 Material: 116, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.08-10.12.00:355][ 40]LogStaticMesh: WritePages:
+[2025.05.08-10.12.00:355][ 40]LogStaticMesh:   Root: GPU size: 32520 bytes. 1 Pages. 32520.000 bytes per page (99.243% utilization).
+[2025.05.08-10.12.00:355][ 40]LogStaticMesh:   Streaming: GPU size: 117580 bytes. 1 Pages (1 with relative encoding). 117580.000 bytes per page (89.706% utilization).
+[2025.05.08-10.12.00:355][ 40]LogStaticMesh:   Page data disk size: 125964 bytes. Fixup data size: 392 bytes.
+[2025.05.08-10.12.00:355][ 40]LogStaticMesh:   Total GPU size: 150100 bytes, Total disk size: 126356 bytes.
+[2025.05.08-10.12.00:355][ 40]LogStaticMesh: Encode [0.01s]
+[2025.05.08-10.12.00:355][ 40]LogStaticMesh: Nanite build [0.33s]
+
+[2025.05.08-10.12.00:361][ 40]LogStaticMesh: Built static mesh [0.37s] /Game/Main/Art/StaticMeshes/Sword/Miecz_LP.Miecz_LP
+[2025.05.08-10.12.00:432][ 44]LogInterchangeEngine: Display: Interchange import completed [D:/Users/taoma/Deskt...Biała/Miecze/Miecz_1/Miecz_LP.fbx]
+[2025.05.08-10.12.00:432][ 44]Interchange: Warning: [D:/Users/taoma/Desktop/Do portfolio/3D/Blender/Obiekty/Broń_Biała/Miecze/Miecz_1/Miecz_LP.fbx : 'Miecz_LP', StaticMesh] No smoothing group information was found for this mesh 'Circle_012' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.05.08-10.12.00:453][ 44]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.08-10.12.00:453][ 44]LogInterchangeEngine: [Success] Import Done
+[2025.05.08-10.12.00:597][ 47]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2025.05.08-10.12.56:963][426]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7473.792969
+[2025.05.08-10.12.57:964][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-10.12.57:964][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7474.460449, Update Interval: 330.784637
+[2025.05.08-10.14.28:715][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.08-10.14.28:720][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/My_Assets/AssetShow_Case' took 0.018
+[2025.05.08-10.14.28:721][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main/Art/StaticMeshes/Sword/Miecz_LP] ([1] browsable assets)...
+[2025.05.08-10.14.28:786][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Main/Art/StaticMeshes/Sword/Miecz_LP.Miecz_LP]
+[2025.05.08-10.14.28:786][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Art/StaticMeshes/Sword/Miecz_LP]
+[2025.05.08-10.14.28:794][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main/Art/StaticMeshes/Sword/Miecz_LP_Auto3
+[2025.05.08-10.14.28:794][701]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/Miecz_LP_Auto3457216334E010652683A2CAB67781476.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/Autosaves/Game/Main/Art/StaticMeshes/Sword/Miecz_LP_Auto3.uasset'
+[2025.05.08-10.14.28:795][701]LogFileHelpers: Auto-saving content packages took 0.075
+[2025.05.08-10.19.05:466][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7842.300781
+[2025.05.08-10.19.06:467][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-10.19.06:467][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7842.967773, Update Interval: 301.781677
+[2025.05.08-10.24.57:181][735]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8194.033203
+[2025.05.08-10.24.58:180][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-10.24.58:180][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8194.699219, Update Interval: 333.388458
+[2025.05.08-10.31.10:245][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8567.042969
+[2025.05.08-10.31.11:245][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-10.31.11:245][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8567.709961, Update Interval: 326.761688
+[2025.05.08-10.37.33:629][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8950.374023
+[2025.05.08-10.37.34:630][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-10.37.34:630][  7]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8951.041016, Update Interval: 304.572296
+[2025.05.08-10.42.37:022][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Main/Art/StaticMeshes/Sword/Miecz_LP.Miecz_LP
+[2025.05.08-10.42.37:022][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Main/Art/StaticMeshes/Sword/Miecz_LP.Miecz_LP
+[2025.05.08-10.42.37:023][612]LogActorFactory: Actor Factory spawned StaticMesh /Game/Main/Art/StaticMeshes/Sword/Miecz_LP.Miecz_LP as actor: StaticMeshActor /Game/Assets/My_Assets/AssetShow_Case.AssetShow_Case:PersistentLevel.StaticMeshActor_0
+[2025.05.08-10.42.37:770][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.08-10.42.37:773][663]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.05.08-10.42.37:779][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Main/Art/StaticMeshes/Sword/Miecz_LP.Miecz_LP
+[2025.05.08-10.42.37:779][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Main/Art/StaticMeshes/Sword/Miecz_LP.Miecz_LP
+[2025.05.08-10.42.37:782][663]LogActorFactory: Actor Factory spawned StaticMesh /Game/Main/Art/StaticMeshes/Sword/Miecz_LP.Miecz_LP as actor: StaticMeshActor /Game/Assets/My_Assets/AssetShow_Case.AssetShow_Case:PersistentLevel.StaticMeshActor_UAID_00D861106756596602_1833635871
+[2025.05.08-10.43.08:205][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.05.08-10.43.08:213][253]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Assets/My_Assets/AssetShow_Case/E/9J/EQA11WP8A5PES9KQWIZU1D_Auto4
+[2025.05.08-10.43.08:213][253]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/EQA11WP8A5PES9KQWIZU1D_Auto4566E57744F0E72CD06B85CB974FD0BCA.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/Autosaves/Game/__ExternalActors__/Assets/My_Assets/AssetShow_Case/E/9J/EQA11WP8A5PES9KQWIZU1D_Auto4.uasset'
+[2025.05.08-10.43.08:214][253]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/My_Assets/AssetShow_Case' took 0.020
+[2025.05.08-10.43.08:214][253]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2025.05.08-10.43.14:464][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9291.209961
+[2025.05.08-10.43.15:463][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-10.43.15:463][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9291.875977, Update Interval: 355.852539
+[2025.05.08-10.46.01:341][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.46.01:341][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 0 (Connection 54 seems to be dead)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 1 (Closing connection)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 3 (Send failure: Connection was reset)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 5 (Connection 55 seems to be dead)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 6 (Closing connection)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 7 (Recv failure: Connection was reset)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 8 (Send failure: Connection was reset)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 9 (Recv failure: Connection was reset)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 10 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 11 (  Trying 54.82.88.95:443...)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 12 (connect to 54.82.88.95 port 443 failed: Network unreachable)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 13 (  Trying 54.87.219.104:443...)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 14 (connect to 54.87.219.104 port 443 failed: Network unreachable)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 15 (  Trying 44.210.157.42:443...)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 16 (connect to 44.210.157.42 port 443 failed: Network unreachable)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 17 (  Trying 44.195.220.200:443...)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 18 (connect to 44.195.220.200 port 443 failed: Network unreachable)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 19 (  Trying 54.198.203.66:443...)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 20 (connect to 54.198.203.66 port 443 failed: Network unreachable)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 21 (  Trying 35.168.61.180:443...)
+[2025.05.08-10.46.01:342][859]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 22 (connect to 35.168.61.180 port 443 failed: Network unreachable)
+[2025.05.08-10.46.01:342][860]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 23 (Failed to connect to api.epicgames.dev port 443 after 53 ms: Couldn't connect to server)
+[2025.05.08-10.46.01:342][860]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 24 (Closing connection)
+[2025.05.08-10.46.01:342][860]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537
+[2025.05.08-10.46.02:674][863]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 25 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 26 (  Trying 54.82.88.95:443...)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 27 (connect to 54.82.88.95 port 443 failed: Network unreachable)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 28 (  Trying 54.87.219.104:443...)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 29 (connect to 54.87.219.104 port 443 failed: Network unreachable)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 30 (  Trying 44.210.157.42:443...)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 31 (connect to 44.210.157.42 port 443 failed: Network unreachable)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 32 (  Trying 44.195.220.200:443...)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 33 (connect to 44.195.220.200 port 443 failed: Network unreachable)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 34 (  Trying 54.198.203.66:443...)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 35 (connect to 54.198.203.66 port 443 failed: Network unreachable)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 36 (  Trying 35.168.61.180:443...)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 37 (connect to 35.168.61.180 port 443 failed: Network unreachable)
+[2025.05.08-10.46.03:009][864]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 38 (Failed to connect to api.epicgames.dev port 443 after 54 ms: Couldn't connect to server)
+[2025.05.08-10.46.03:009][865]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 39 (Closing connection)
+[2025.05.08-10.46.03:009][865]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537
+[2025.05.08-10.46.04:342][868]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537
+[2025.05.08-10.46.04:675][869]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.46.04:675][869]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2025.05.08-10.46.04:675][869]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 40 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.05.08-10.46.04:675][869]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 41 (  Trying 54.82.88.95:443...)
+[2025.05.08-10.46.04:675][869]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 42 (connect to 54.82.88.95 port 443 failed: Network unreachable)
+[2025.05.08-10.46.04:675][869]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 43 (  Trying 54.87.219.104:443...)
+[2025.05.08-10.46.04:675][869]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 44 (connect to 54.87.219.104 port 443 failed: Network unreachable)
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 45 (  Trying 44.210.157.42:443...)
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 46 (connect to 44.210.157.42 port 443 failed: Network unreachable)
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 47 (  Trying 44.195.220.200:443...)
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 48 (connect to 44.195.220.200 port 443 failed: Network unreachable)
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 49 (  Trying 54.198.203.66:443...)
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 0 (connect to 54.198.203.66 port 443 failed: Network unreachable)
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 1 (  Trying 35.168.61.180:443...)
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 2 (connect to 35.168.61.180 port 443 failed: Network unreachable)
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 3 (Failed to connect to api.epicgames.dev port 443 after 54 ms: Couldn't connect to server)
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogHttp: 000005F53481EA00: libcurl info message cache 4 (Closing connection)
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537
+[2025.05.08-10.46.04:675][870]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.05.08-10.46.23:678][926]LogEOSSDK: Warning: LogHttp: 000005F534816600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC215BCA6-4B48-86BF-C21B-AD8DB7345885%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.46.23:678][926]LogEOSSDK: Warning: LogHttp: 000005F534816600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.46.23:678][926]LogEOSSDK: Warning: LogHttp: 000005F534816600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2025.05.08-10.46.23:678][926]LogEOSSDK: Warning: LogHttp: 000005F534816600: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.46.23:678][926]LogEOSSDK: Warning: LogHttp: 000005F534816600: libcurl info message cache 2 (Closing connection)
+[2025.05.08-10.46.23:678][927]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC215BCA6-4B48-86BF-C21B-AD8DB7345885%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.08-10.46.24:679][929]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.46.24:679][929]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.46.24:679][929]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.46.24:679][929]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: libcurl info message cache 1 (Closing connection)
+[2025.05.08-10.46.24:679][930]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.46.25:012][930]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.46.26:012][933]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.46.26:345][934]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.46.26:345][934]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.46.26:345][934]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.46.26:345][934]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: libcurl info message cache 3 (Closing connection)
+[2025.05.08-10.46.26:345][935]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.46.26:678][935]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.46.27:346][937]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.46.27:679][938]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.46.27:679][938]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.46.27:679][938]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.46.27:679][938]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: libcurl info message cache 5 (Closing connection)
+[2025.05.08-10.46.27:679][938]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.46.28:012][939]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.46.29:013][942]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.46.29:345][943]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.46.29:345][943]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.46.29:345][943]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.46.29:345][944]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: libcurl info message cache 7 (Closing connection)
+[2025.05.08-10.46.29:345][944]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.46.29:678][944]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.46.30:346][946]LogHttp: Warning: 000005F505356200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.46.30:346][946]LogHttp: Warning: 000005F505356200: libcurl info message cache 0 (Connection 10 seems to be dead)
+[2025.05.08-10.46.30:346][946]LogHttp: Warning: 000005F505356200: libcurl info message cache 1 (Closing connection)
+[2025.05.08-10.46.30:346][946]LogHttp: Warning: 000005F505356200: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2025.05.08-10.46.30:346][946]LogHttp: Warning: 000005F505356200: libcurl info message cache 3 (Send failure: Connection was reset)
+[2025.05.08-10.46.30:346][946]LogHttp: Warning: 000005F505356200: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2025.05.08-10.46.30:346][946]LogHttp: Warning: 000005F505356200: libcurl info message cache 5 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.05.08-10.46.30:346][946]LogHttp: Warning: 000005F505356200: libcurl info message cache 6 (Closing connection)
+[2025.05.08-10.46.30:346][946]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.46.30:680][947]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.46.30:680][947]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.46.30:680][947]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.46.30:680][947]LogEOSSDK: Warning: LogHttp: 000005F53481DE00: libcurl info message cache 9 (Closing connection)
+[2025.05.08-10.46.30:680][947]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.46.30:680][947]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
+[2025.05.08-10.46.31:013][948]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: 74d...99b
+[2025.05.08-10.46.59:889][295]LogStreaming: Display: FlushAsyncLoading(924): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.08-10.46.59:959][295]LogInterchangeEngine: [Pending] Importing
+[2025.05.08-10.46.59:959][295]LogInterchangeEngine: Display: Interchange start importing source [D:/Users/taoma/Desktop/Do portfolio/3D/Blender/Obiekty/Broń_Biała/Miecze/Miecz_1/ue5/Sword_N.jpg]
+[2025.05.08-10.46.59:960][295]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.08-10.46.59:961][295]LogInterchangeEngine: Display: Interchange start importing source [D:/Users/taoma/Desktop/Do portfolio/3D/Blender/Obiekty/Broń_Biała/Miecze/Miecz_1/ue5/Swird_ORM.jpg]
+[2025.05.08-10.46.59:961][295]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.08-10.46.59:961][295]LogInterchangeEngine: Display: Interchange start importing source [D:/Users/taoma/Desktop/Do portfolio/3D/Blender/Obiekty/Broń_Biała/Miecze/Miecz_1/ue5/Sword_BC.jpg]
+[2025.05.08-10.47.00:105][297]LogStreaming: Display: FlushAsyncLoading(932): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.08-10.47.00:107][297]LogInterchangeImport: JPEG file [D:/Users/taoma/Desktop/Do portfolio/3D/Blender/Obiekty/Broń_Biała/Miecze/Miecz_1/ue5/Sword_N.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.05.08-10.47.00:107][298]LogInterchangeImport: JPEG file [D:/Users/taoma/Desktop/Do portfolio/3D/Blender/Obiekty/Broń_Biała/Miecze/Miecz_1/ue5/Sword_BC.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.05.08-10.47.00:107][298]LogInterchangeImport: JPEG file [D:/Users/taoma/Desktop/Do portfolio/3D/Blender/Obiekty/Broń_Biała/Miecze/Miecz_1/ue5/Swird_ORM.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.05.08-10.47.00:192][298]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.08-10.47.00:213][299]LogTexture: Display: Building textures: /Game/Main/Art/Textures/Sword/Sword_N.Sword_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.05.08-10.47.00:257][299]LogTexture: Display: Building textures: /Game/Main/Art/Textures/Sword/Swird_ORM.Swird_ORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.08-10.47.00:380][300]LogTexture: Display: Building textures: /Game/Main/Art/Textures/Sword/Sword_BC.Sword_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.08-10.47.00:483][300]LogInterchangeEngine: Display: Interchange import completed [D:/Users/taoma/Deskt...a/Miecze/Miecz_1/ue5/Sword_N.jpg]
+[2025.05.08-10.47.00:483][300]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.08-10.47.00:561][301]LogInterchangeEngine: Display: Interchange import completed [D:/Users/taoma/Deskt...a/Miecze/Miecz_1/ue5/Swird_ORM.jpg]
+[2025.05.08-10.47.00:561][301]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.08-10.47.00:561][301]LogInterchangeEngine: Display: Interchange import completed [D:/Users/taoma/Deskt...a/Miecze/Miecz_1/ue5/Sword_BC.jpg]
+[2025.05.08-10.47.00:580][301]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.08-10.47.00:580][301]LogInterchangeEngine: [Success] Import Done
+[2025.05.08-10.47.16:249][421]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Main/Materials/MaterialInstances/Sword/MI_Skull_Upper.MI_Skull_Upper
+[2025.05.08-10.47.16:251][421]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2025.05.08-10.47.23:296][786]LogEOSSDK: Warning: LogHttp: 000005F4D36E9600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC215BCA6-4B48-86BF-C21B-AD8DB7345885%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.47.23:296][786]LogEOSSDK: Warning: LogHttp: 000005F4D36E9600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.47.23:296][787]LogEOSSDK: Warning: LogHttp: 000005F4D36E9600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.47.23:296][787]LogEOSSDK: Warning: LogHttp: 000005F4D36E9600: libcurl info message cache 1 (Closing connection)
+[2025.05.08-10.47.23:296][787]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC215BCA6-4B48-86BF-C21B-AD8DB7345885%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.08-10.47.24:160][826]LogHttp: Warning: 000005F52DBDD200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.47.24:160][826]LogHttp: Warning: 000005F52DBDD200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.05.08-10.47.24:160][826]LogHttp: Warning: 000005F52DBDD200: libcurl info message cache 1 (Closing connection)
+[2025.05.08-10.47.30:754][163]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.47.30:754][163]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.47.30:754][163]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.47.30:754][164]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: libcurl info message cache 1 (Closing connection)
+[2025.05.08-10.47.30:754][164]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.47.30:769][164]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.47.31:758][232]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.47.31:787][234]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.47.31:787][234]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.47.31:787][234]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.47.31:787][235]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: libcurl info message cache 3 (Closing connection)
+[2025.05.08-10.47.31:787][235]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.47.31:801][235]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.47.32:799][287]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.47.32:875][289]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.47.32:875][289]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.47.32:875][289]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.47.32:875][289]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: libcurl info message cache 5 (Closing connection)
+[2025.05.08-10.47.32:875][289]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.47.32:895][290]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.47.33:908][343]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.47.33:929][344]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.47.33:929][344]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.47.33:929][344]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.47.33:929][344]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: libcurl info message cache 7 (Closing connection)
+[2025.05.08-10.47.33:929][344]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.47.33:949][345]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.47.34:928][397]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.47.34:988][400]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.47.34:988][400]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.47.34:988][401]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.47.34:988][401]LogEOSSDK: Warning: LogHttp: 000005F4D621EA00: libcurl info message cache 9 (Closing connection)
+[2025.05.08-10.47.34:988][401]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.47.34:988][401]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
+[2025.05.08-10.47.35:007][401]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: 74d...99b
+[2025.05.08-10.47.38:291][586]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Main/Art/Textures/Sword/Swird_ORM.Swird_ORM
+[2025.05.08-10.47.40:270][664]LogTexture: Display: Building textures: /Game/Main/Art/Textures/Sword/Swird_ORM.Swird_ORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Final
+[2025.05.08-10.47.44:264][892]LogSlate: Window 'Swird_ORM' being destroyed
+[2025.05.08-10.47.44:273][892]LogSlate: Window 'Swird_ORM' being destroyed
+[2025.05.08-10.47.44:352][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.08-10.47.44:540][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.05.08-10.47.46:102][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.08-10.47.46:115][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.08-10.47.46:180][  8]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Assets/My_Assets/AssetShow_Case/1/EW/KWK1YKX33Y5UE0OW8QJ1RU
+[2025.05.08-10.47.46:180][  8]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/KWK1YKX33Y5UE0OW8QJ1RU1BC3BD764CD73E8DC0640085D7F8B791.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/__ExternalActors__/Assets/My_Assets/AssetShow_Case/1/EW/KWK1YKX33Y5UE0OW8QJ1RU.uasset'
+[2025.05.08-10.47.46:183][  8]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Assets/My_Assets/AssetShow_Case/E/9J/EQA11WP8A5PES9KQWIZU1D
+[2025.05.08-10.47.46:183][  8]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/EQA11WP8A5PES9KQWIZU1D40F9DF2644FA058EF33DBA8F97EF3E46.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/__ExternalActors__/Assets/My_Assets/AssetShow_Case/E/9J/EQA11WP8A5PES9KQWIZU1D.uasset'
+[2025.05.08-10.47.46:184][  8]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Main/Materials/MaterialInstances/Skull/Upper_Skull/MI_Skull_Upper] ([1] browsable assets)...
+[2025.05.08-10.47.46:184][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Materials/MaterialInstances/Skull/Upper_Skull/MI_Skull_Upper]
+[2025.05.08-10.47.46:186][  8]LogSavePackage: Moving output files for package: /Game/Main/Materials/MaterialInstances/Skull/Upper_Skull/MI_Skull_Upper
+[2025.05.08-10.47.46:186][  8]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/MI_Skull_UpperB69D42BE4322CBD26710C68938CA611A.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Materials/MaterialInstances/Skull/Upper_Skull/MI_Skull_Upper.uasset'
+[2025.05.08-10.47.46:188][  8]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Main/Art/StaticMeshes/Sword/Miecz_LP] ([1] browsable assets)...
+[2025.05.08-10.47.46:188][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Art/StaticMeshes/Sword/Miecz_LP]
+[2025.05.08-10.47.46:188][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Art/StaticMeshes/Sword/Miecz_LP" FILE="D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Art/StaticMeshes/Sword/Miecz_LP.uasset" SILENT=true
+[2025.05.08-10.47.46:195][  8]LogSavePackage: Moving output files for package: /Game/Main/Art/StaticMeshes/Sword/Miecz_LP
+[2025.05.08-10.47.46:195][  8]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/Miecz_LP3BCAA48E4BC9B1C71C771580F76D3FDA.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Art/StaticMeshes/Sword/Miecz_LP.uasset'
+[2025.05.08-10.47.46:197][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main/Art/Textures/Sword/Sword_N] ([1] browsable assets)...
+[2025.05.08-10.47.46:199][  8]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Main/Art/Textures/Sword/Sword_N.Sword_N]
+[2025.05.08-10.47.46:199][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Art/Textures/Sword/Sword_N]
+[2025.05.08-10.47.46:199][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Art/Textures/Sword/Sword_N" FILE="D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Art/Textures/Sword/Sword_N.uasset" SILENT=true
+[2025.05.08-10.47.46:201][  8]LogSavePackage: Moving output files for package: /Game/Main/Art/Textures/Sword/Sword_N
+[2025.05.08-10.47.46:201][  8]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/Sword_NE0D45E1145F1918C9EB9D4AF7BBC6BA5.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Art/Textures/Sword/Sword_N.uasset'
+[2025.05.08-10.47.46:204][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main/Art/Textures/Sword/Swird_ORM] ([1] browsable assets)...
+[2025.05.08-10.47.46:205][  8]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Main/Art/Textures/Sword/Swird_ORM.Swird_ORM]
+[2025.05.08-10.47.46:205][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Art/Textures/Sword/Swird_ORM]
+[2025.05.08-10.47.46:205][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Art/Textures/Sword/Swird_ORM" FILE="D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Art/Textures/Sword/Swird_ORM.uasset" SILENT=true
+[2025.05.08-10.47.46:207][  8]LogSavePackage: Moving output files for package: /Game/Main/Art/Textures/Sword/Swird_ORM
+[2025.05.08-10.47.46:207][  8]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/Swird_ORMC705103743CA9BB2895C7B97C2F3F5D0.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Art/Textures/Sword/Swird_ORM.uasset'
+[2025.05.08-10.47.46:209][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main/Art/Textures/Sword/Sword_BC] ([1] browsable assets)...
+[2025.05.08-10.47.46:210][  8]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Main/Art/Textures/Sword/Sword_BC.Sword_BC]
+[2025.05.08-10.47.46:211][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Art/Textures/Sword/Sword_BC]
+[2025.05.08-10.47.46:211][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Art/Textures/Sword/Sword_BC" FILE="D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Art/Textures/Sword/Sword_BC.uasset" SILENT=true
+[2025.05.08-10.47.46:213][  8]LogSavePackage: Moving output files for package: /Game/Main/Art/Textures/Sword/Sword_BC
+[2025.05.08-10.47.46:213][  8]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/Sword_BCDFD646734568B0C07E0047B75A166A85.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Art/Textures/Sword/Sword_BC.uasset'
+[2025.05.08-10.47.46:214][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main/Materials/MaterialInstances/Sword/MI_Skull_Upper] ([1] browsable assets)...
+[2025.05.08-10.47.46:261][  8]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Main/Materials/MaterialInstances/Sword/MI_Skull_Upper.MI_Skull_Upper]
+[2025.05.08-10.47.46:261][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Materials/MaterialInstances/Sword/MI_Skull_Upper]
+[2025.05.08-10.47.46:263][  8]LogSavePackage: Moving output files for package: /Game/Main/Materials/MaterialInstances/Sword/MI_Skull_Upper
+[2025.05.08-10.47.46:263][  8]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/MI_Skull_Upper276BBCFF4733B17E33CC8DB888ACB360.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Materials/MaterialInstances/Sword/MI_Skull_Upper.uasset'
+[2025.05.08-10.47.46:275][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.807 ms (total: 21.7 sec)
+[2025.05.08-10.47.46:343][  8]LogContentValidation: Display: Starting to validate 8 assets
+[2025.05.08-10.47.46:343][  8]LogContentValidation: Enabled validators:
+[2025.05.08-10.47.46:343][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.08-10.47.46:343][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.08-10.47.46:343][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.08-10.47.46:343][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.08-10.47.46:343][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.08-10.47.46:343][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.08-10.47.46:343][  8]AssetCheck: /Game/Assets/My_Assets/AssetShow_Case Validating asset
+[2025.05.08-10.47.46:343][  8]AssetCheck: /Game/Main/Materials/MaterialInstances/Skull/Upper_Skull/MI_Skull_Upper Validating asset
+[2025.05.08-10.47.46:344][  8]AssetCheck: /Game/Main/Art/StaticMeshes/Sword/Miecz_LP Validating asset
+[2025.05.08-10.47.46:344][  8]AssetCheck: /Game/Main/Art/Textures/Sword/Sword_N Validating asset
+[2025.05.08-10.47.46:344][  8]AssetCheck: /Game/Main/Art/Textures/Sword/Swird_ORM Validating asset
+[2025.05.08-10.47.46:344][  8]AssetCheck: /Game/Main/Art/Textures/Sword/Sword_BC Validating asset
+[2025.05.08-10.47.46:344][  8]AssetCheck: /Game/Main/Materials/MaterialInstances/Sword/MI_Skull_Upper Validating asset
+[2025.05.08-10.47.55:114][658]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Main/Art/StaticMeshes/Sword/Miecz_LP.Miecz_LP
+[2025.05.08-10.47.55:206][658]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2025.05.08-10.47.55:357][658]LogStreaming: Display: FlushAsyncLoading(935): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.08-10.48.00:727][888]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.48.00:727][888]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.48.00:727][888]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.48.00:727][888]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: libcurl info message cache 1 (Closing connection)
+[2025.05.08-10.48.00:727][889]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537
+[2025.05.08-10.48.01:744][936]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537
+[2025.05.08-10.48.01:770][937]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.48.01:770][937]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.48.01:770][937]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.48.01:770][937]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: libcurl info message cache 3 (Closing connection)
+[2025.05.08-10.48.01:770][937]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537
+[2025.05.08-10.48.02:772][986]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537
+[2025.05.08-10.48.02:814][988]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.48.02:814][988]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.48.02:814][988]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.48.02:814][988]LogEOSSDK: Warning: LogHttp: 000005F52DBB3600: libcurl info message cache 5 (Closing connection)
+[2025.05.08-10.48.02:814][988]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3F49C4694F80DCE03E4EB1AD53D19537
+[2025.05.08-10.48.02:814][988]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.05.08-10.48.11:803][455]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Main/Art/StaticMeshes/Sword/Miecz_LP) ...
+[2025.05.08-10.48.17:587][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.08-10.48.17:594][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.08-10.48.17:656][699]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main/Art/StaticMeshes/Sword/Miecz_LP] ([1] browsable assets)...
+[2025.05.08-10.48.17:670][699]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Main/Art/StaticMeshes/Sword/Miecz_LP.Miecz_LP]
+[2025.05.08-10.48.17:670][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Art/StaticMeshes/Sword/Miecz_LP]
+[2025.05.08-10.48.17:670][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Art/StaticMeshes/Sword/Miecz_LP" FILE="D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Art/StaticMeshes/Sword/Miecz_LP.uasset" SILENT=true
+[2025.05.08-10.48.17:678][699]LogSavePackage: Moving output files for package: /Game/Main/Art/StaticMeshes/Sword/Miecz_LP
+[2025.05.08-10.48.17:678][699]LogSavePackage: Moving 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Saved/Miecz_LPD4B5E3CC42212C60D2B788BEC43D4E6E.tmp' to 'D:/Users/taoma/Documents/Unreal Projects/Project_1/Content/Main/Art/StaticMeshes/Sword/Miecz_LP.uasset'
+[2025.05.08-10.48.17:689][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.394 ms (total: 21.8 sec)
+[2025.05.08-10.48.17:758][699]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.08-10.48.17:758][699]LogContentValidation: Enabled validators:
+[2025.05.08-10.48.17:758][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.08-10.48.17:758][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.08-10.48.17:758][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.08-10.48.17:758][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.08-10.48.17:758][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.08-10.48.17:758][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.08-10.48.17:758][699]AssetCheck: /Game/Main/Art/StaticMeshes/Sword/Miecz_LP Validating asset
+[2025.05.08-10.48.19:432][769]LogSlate: Window 'Miecz_LP' being destroyed
+[2025.05.08-10.48.19:441][769]LogSlate: Window 'Miecz_LP' being destroyed
+[2025.05.08-10.48.19:484][769]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-10.48.19:484][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-10.48.19:512][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.08-10.48.23:274][ 29]LogEOSSDK: Warning: LogHttp: 000005F533C61800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC215BCA6-4B48-86BF-C21B-AD8DB7345885%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.48.23:275][ 30]LogEOSSDK: Warning: LogHttp: 000005F533C61800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.48.23:275][ 30]LogEOSSDK: Warning: LogHttp: 000005F533C61800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.48.23:275][ 30]LogEOSSDK: Warning: LogHttp: 000005F533C61800: libcurl info message cache 1 (Closing connection)
+[2025.05.08-10.48.23:286][ 30]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC215BCA6-4B48-86BF-C21B-AD8DB7345885%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.08-10.48.24:111][ 93]LogHttp: Warning: 000005F50794D900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.48.24:112][ 93]LogHttp: Warning: 000005F50794D900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.05.08-10.48.24:112][ 93]LogHttp: Warning: 000005F50794D900: libcurl info message cache 1 (Closing connection)
+[2025.05.08-10.48.32:347][561]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.08-10.48.35:025][731]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.48.35:025][731]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.48.35:025][731]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.48.35:025][731]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: libcurl info message cache 1 (Closing connection)
+[2025.05.08-10.48.35:025][731]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.48.35:037][731]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.48.36:029][798]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.48.36:071][801]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.48.36:071][801]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.48.36:071][801]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.48.36:071][801]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: libcurl info message cache 3 (Closing connection)
+[2025.05.08-10.48.36:071][802]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.48.36:084][802]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.48.37:083][871]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.48.37:114][873]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.48.37:114][873]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.48.37:114][873]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.48.37:114][873]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: libcurl info message cache 5 (Closing connection)
+[2025.05.08-10.48.37:114][873]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.48.37:129][873]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.48.38:117][929]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.48.38:150][930]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.48.38:150][930]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.48.38:150][930]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.48.38:150][931]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: libcurl info message cache 7 (Closing connection)
+[2025.05.08-10.48.38:150][931]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.48.38:159][931]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 74d...99b
+[2025.05.08-10.48.39:151][977]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.48.39:196][980]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.48.39:196][980]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.48.39:196][980]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.48.39:196][980]LogEOSSDK: Warning: LogHttp: 000005F4EF4CDE00: libcurl info message cache 9 (Closing connection)
+[2025.05.08-10.48.39:196][981]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.05.08-10.48.39:196][981]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
+[2025.05.08-10.48.39:210][981]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: 74d...99b
+[2025.05.08-10.49.04:774][739]Cmd: TRANSACTION UNDO
+[2025.05.08-10.49.04:775][739]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.08-10.49.05:344][751]Cmd: TRANSACTION UNDO
+[2025.05.08-10.49.05:344][751]LogEditorTransaction: Undo Rotate Elements
+[2025.05.08-10.49.05:827][803]Cmd: TRANSACTION UNDO
+[2025.05.08-10.49.05:827][803]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.08-10.49.06:407][837]Cmd: TRANSACTION UNDO
+[2025.05.08-10.49.06:407][837]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.08-10.49.06:852][861]Cmd: TRANSACTION UNDO
+[2025.05.08-10.49.06:852][861]LogEditorTransaction: Undo Rotate Elements
+[2025.05.08-10.49.08:045][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.08-10.49.23:824][174]LogEOSSDK: Warning: LogHttp: 000005F50C6C7200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC215BCA6-4B48-86BF-C21B-AD8DB7345885%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.08-10.49.23:824][174]LogEOSSDK: Warning: LogHttp: 000005F50C6C7200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.49.23:824][174]LogEOSSDK: Warning: LogHttp: 000005F50C6C7200: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.05.08-10.49.23:824][175]LogEOSSDK: Warning: LogHttp: 000005F50C6C7200: libcurl info message cache 1 (Closing connection)
+[2025.05.08-10.49.23:824][175]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BC215BCA6-4B48-86BF-C21B-AD8DB7345885%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.08-10.49.24:490][176]LogHttp: Warning: 000005F518474600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.08-10.49.24:490][176]LogHttp: Warning: 000005F518474600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.05.08-10.49.24:490][176]LogHttp: Warning: 000005F518474600: libcurl info message cache 1 (Closing connection)
