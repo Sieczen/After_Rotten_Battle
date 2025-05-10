@@ -1626,3 +1626,844 @@ FPackageName: Skipped package /Game/TestScenes/TestScene_1_HLOD0_Instancing has 
 [2025.05.10-10.20.13:822][914]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
 [2025.05.10-10.20.13:822][914]LogShaderCompilers: Display: Material Cache Hits: 46 (26%)
 [2025.05.10-10.20.13:822][914]LogShaderCompilers: Display: ================================================
+[2025.05.10-10.20.50:932][684]LogStreaming: Display: FlushAsyncLoading(967): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.10-10.20.51:405][684]LogBlueprintUserMessages: [Landscape_CustomBrush_MaterialOnly_C_0] Brush Initialize
+[2025.05.10-10.20.51:473][684]LogBlueprintUserMessages: [LandmassBrushManager_C_0] Landmass Manager Initialize
+[2025.05.10-10.20.51:473][684]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.20.51:473][684]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.20.51:517][684]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.10-10.20.51:525][685]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.20.51:525][685]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.22.49:875][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 701.301758
+[2025.05.10-10.22.50:875][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.10-10.22.50:875][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 701.968140, Update Interval: 340.363159
+[2025.05.10-10.24.38:655][644]LogSlate: Took 0.000700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.10-10.28.35:546][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1046.969971
+[2025.05.10-10.28.36:300][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.10-10.28.36:323][723]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestScenes/Test_Scene_Auto1
+[2025.05.10-10.28.36:323][723]LogSavePackage: Moving '../../../../../../Users/taoma/Documents/Unreal Projects/After_Rotten_Battle/Saved/Test_Scene_Auto1B821D0DC43B8BAC3DB7439865491242B.tmp' to '../../../../../../Users/taoma/Documents/Unreal Projects/After_Rotten_Battle/Saved/Autosaves/Game/TestScenes/Test_Scene_Auto1.umap'
+[2025.05.10-10.28.36:331][723]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestScenes/Test_Scene' took 0.085
+[2025.05.10-10.28.36:332][723]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2025.05.10-10.28.36:535][724]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.10-10.28.36:535][724]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1047.774780, Update Interval: 311.459076
+[2025.05.10-10.29.22:870][143]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.OffsetNoiseDistanceFields_ForNormals
+[2025.05.10-10.29.34:125][775]LogSlate: Window 'OffsetNoiseDistanceFields_ForNormals' being destroyed
+[2025.05.10-10.29.34:131][775]LogSlate: Window 'OffsetNoiseDistanceFields_ForNormals' being destroyed
+[2025.05.10-10.29.40:194][132]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:194][132]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:204][133]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:204][133]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:223][134]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:223][134]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:254][136]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:254][136]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:272][137]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:272][137]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:288][138]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:288][138]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:321][140]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:321][140]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:338][141]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:338][141]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:371][143]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:371][143]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:538][153]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:538][153]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:571][155]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:572][155]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:588][156]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:588][156]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:705][163]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:705][163]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:721][164]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.29.40:721][164]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:738][165]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:755][166]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:771][167]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:789][168]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:805][169]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:821][170]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:838][171]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:971][179]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.40:988][180]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:004][181]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:022][182]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:038][183]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:055][184]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:071][185]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:088][186]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:104][187]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:121][188]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:139][189]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:155][190]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:172][191]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.41:188][192]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.46:789][521]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.46:834][522]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.46:879][523]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.46:923][524]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.46:967][525]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.47:009][526]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.47:180][535]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.47:226][536]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.47:272][537]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.47:659][559]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.47:706][560]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.47:750][561]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.47:832][564]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.50:469][719]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.05.10-10.29.50:530][719]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.061 s
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: === Handled ensure: ===
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: 
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: Ensure condition failed: ValidX1 <= ValidX2 && ValidY1 <= ValidY2  [File:D:\build\++UE5\Sync\Engine\Source\Editor\LandscapeEditor\Private\LandscapeEdModeTools.h] [Line: 315] 
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: Invalid cache area: X(2147483647--2147483648), Y(2147483647--2147483648) from region X(2052-2054), Y(-1-1)
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: Stack: 
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x000002b989528202 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x000002b9893e55a3 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x000002b9893d6c40 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x000002b9893e28ac UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x000002b98937a598 UnrealEditor-LandscapeEditor.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb66c76d0b UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb6605857c UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb66089191 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb660999e9 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb6610fecb UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb6662ad6a UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb69e0f49e UnrealEditor-Engine.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb9273ea97 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb92383909 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb923dd8c3 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb923cd0c4 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffb923c1776 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffc2880ab78 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffc287f5786 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffc2880d85e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffc287f05b7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffc4c41e83a USER32.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffc4c43ccb2 USER32.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffc2882bb26 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ff70eac632d UnrealEditor.exe!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ff70eae57ac UnrealEditor.exe!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ff70eae589a UnrealEditor.exe!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ff70eae9114 UnrealEditor.exe!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ff70eafbd04 UnrealEditor.exe!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ff70eaff0ba UnrealEditor.exe!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffc4cf3e8d7 KERNEL32.DLL!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: [Callstack] 0x00007ffc4d7dc5dc ntdll.dll!UnknownFunction []
+[2025.05.10-10.29.50:530][719]LogOutputDevice: Error: 
+[2025.05.10-10.29.50:541][719]LogStats:                SubmitErrorReport -  0.000 s
+[2025.05.10-10.29.52:783][719]LogStats:                    SendNewReport -  2.243 s
+[2025.05.10-10.29.52:783][719]LogStats:             FDebug::EnsureFailed -  2.314 s
+[2025.05.10-10.29.52:803][719]LogAutomationController: Ignoring very large delta of 2.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.10-10.29.52:821][721]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.56:366][928]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.56:377][929]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.56:394][930]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.56:410][931]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.56:428][932]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.56:447][933]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.29.56:564][940]Cmd: TRANSACTION UNDO
+[2025.05.10-10.29.56:564][940]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.05.10-10.29.56:629][940]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_0]: Material must be non-null.
+[2025.05.10-10.30.06:476][511]Cmd: DELETE
+[2025.05.10-10.30.06:477][511]Cmd: ACTOR DELETE
+[2025.05.10-10.30.06:491][511]LogEditorActor: Actor Landscape is referenced by Landscape_CustomBrush_MaterialOnly_C.
+[2025.05.10-10.30.06:491][511]LogEditorActor: Actor Landscape is referenced by LandmassBrushManager0.
+[2025.05.10-10.30.07:548][511]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.05.10-10.30.07:562][511]LogEditorActor: Deleted Actor: Landscape
+[2025.05.10-10.30.07:596][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.10-10.30.07:600][511]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2025.05.10-10.30.09:108][589]Cmd: DELETE
+[2025.05.10-10.30.09:108][589]Cmd: ACTOR DELETE
+[2025.05.10-10.30.09:110][589]LogEditorActor: Actor LandmassBrushManager0 is referenced by Landscape_CustomBrush_MaterialOnly_C.
+[2025.05.10-10.30.10:097][589]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.05.10-10.30.10:104][589]LogEditorActor: Deleted Actor: LandmassBrushManager_C
+[2025.05.10-10.30.10:122][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.10-10.30.10:124][589]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.10-10.30.11:032][638]Cmd: DELETE
+[2025.05.10-10.30.11:032][638]Cmd: ACTOR DELETE
+[2025.05.10-10.30.11:035][638]LogEditorActor: Deleted Actor: CustomBrush_MaterialOnly_C
+[2025.05.10-10.30.11:072][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.05.10-10.30.11:078][638]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.05.10-10.30.22:512][300]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.10-10.30.30:248][730]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.10-10.30.30:264][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.10-10.30.30:274][730]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.05.10-10.30.30:274][730]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.05.10-10.30.30:276][730]LogPlayLevel: Creating play world package: /Game/TestScenes/UEDPIE_0_Test_Scene
+[2025.05.10-10.30.30:282][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006961s)
+[2025.05.10-10.30.30:282][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestScenes/Test_Scene.Test_Scene to /Game/TestScenes/UEDPIE_0_Test_Scene.Test_Scene (0.007019s)
+[2025.05.10-10.30.30:306][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.10-10.30.30:308][730]LogChaosDD: Creating Chaos Debug Draw Scene for world Test_Scene
+[2025.05.10-10.30.30:310][730]LogPlayLevel: PIE: World Init took: (0.002156s)
+[2025.05.10-10.30.30:310][730]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.10-10.30.30:310][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.10-10.30.30:311][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.10-10.30.30:311][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.10-10.30.30:311][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.10-10.30.30:311][730]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.10-10.30.30:311][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.10-10.30.30:311][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.10-10.30.30:311][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.10-10.30.30:311][730]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.10-10.30.30:311][730]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.10-10.30.30:311][730]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.10-10.30.30:313][730]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.10-10.30.30:427][730]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.05.10-10.30.30:427][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.10-10.30.30:427][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.10-10.30.30:427][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.10-10.30.30:428][730]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.05.10-10.30.30:428][730]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.05.10-10.30.30:431][730]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.05.10-10.30.30:431][730]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.05.10-10.30.30:431][730]LogInit: FAudioDevice initialized with ID 2.
+[2025.05.10-10.30.30:431][730]LogAudio: Display: Audio Device (ID: 2) registered with world 'Test_Scene'.
+[2025.05.10-10.30.30:431][730]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.10-10.30.30:438][730]LogLoad: Game class is 'GameModeBase'
+[2025.05.10-10.30.30:442][730]LogWorld: Bringing World /Game/TestScenes/UEDPIE_0_Test_Scene.Test_Scene up for play (max tick rate 60) at 2025.05.10-12.30.30
+[2025.05.10-10.30.30:443][730]LogWorld: Bringing up level for play took: 0.004089
+[2025.05.10-10.30.30:446][730]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.05.10-10.30.30:465][730]PIE: Server logged in
+[2025.05.10-10.30.30:467][730]PIE: Play in editor total start time 0,207 seconds.
+[2025.05.10-10.30.42:255][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.10-10.30.42:255][425]LogWorld: BeginTearingDown for /Game/TestScenes/UEDPIE_0_Test_Scene
+[2025.05.10-10.30.42:256][425]LogWorld: UWorld::CleanupWorld for Test_Scene, bSessionEnded=true, bCleanupResources=true
+[2025.05.10-10.30.42:257][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.10-10.30.42:263][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.10-10.30.42:267][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.10-10.30.42:302][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.10-10.30.42:302][425]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.10-10.30.42:305][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.10-10.30.42:309][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.10-10.30.42:316][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.10-10.30.42:321][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.10-10.30.42:350][426]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.05.10-10.31.16:454][424]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.10-10.31.59:697][981]LogBlueprintUserMessages: [Landscape_CustomBrush_MaterialOnly_C_1] Brush Initialize
+[2025.05.10-10.31.59:723][981]LogLandscape: Warning: In landscape Landscape, the BP brush Landscape_CustomBrush_MaterialOnly_C failed to render for (ELandscapeToolTargetType::Heightmap). Make sure the brush properly implements RenderLayer and returns a render target of the appropriate size: expected (128, 128), actual (2048, 2048). This brush will be skipped until then.
+[2025.05.10-10.31.59:723][981]LogBlueprintUserMessages: [LandmassBrushManager_C_1] Landmass Manager Initialize
+[2025.05.10-10.31.59:723][981]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.31.59:723][981]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.00:955][ 43]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.10-10.32.01:871][ 97]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.01:871][ 97]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.02:420][130]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.02:421][130]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.05:179][292]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.10-10.32.19:175][109]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:176][109]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:192][110]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:192][110]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:230][111]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:230][111]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:248][112]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:248][112]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:266][113]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:266][113]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:286][114]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:286][114]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:304][115]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:304][115]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:321][116]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:321][116]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:340][117]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:340][117]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:357][118]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:357][118]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:375][119]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:375][119]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:440][123]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:440][123]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:674][137]LogScript: Warning: Accessed None trying to read property CopyRT_MID
+	LandmassBrushManager_C /Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C:RenderLayer:00DA
+[2025.05.10-10.32.19:674][137]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:690][138]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:740][141]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:757][142]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:776][143]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:793][144]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:810][145]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:828][146]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:846][147]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:864][148]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.19:929][152]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.20:076][159]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.20:171][164]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.20:721][197]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.20:738][198]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.20:777][199]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.20:795][200]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.20:814][201]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.20:877][205]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:061][216]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:078][217]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:096][218]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:114][219]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:132][220]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:150][221]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:167][222]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:232][226]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:366][234]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:382][235]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:401][236]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:419][237]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:437][238]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:455][239]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:520][243]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:537][244]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:556][245]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:573][246]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:638][250]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:676][252]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:695][253]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:716][254]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:734][255]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:753][256]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:817][260]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.21:927][265]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.22:022][270]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.30:681][782]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.30:699][783]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.30:715][784]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.30:731][785]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:015][802]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:032][803]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:049][804]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:067][805]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:083][806]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:100][807]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:200][813]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:216][814]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:233][815]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:251][816]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:266][817]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:284][818]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:300][819]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:350][822]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:366][823]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:384][824]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:400][825]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:416][826]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:434][827]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:451][828]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:468][829]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:484][830]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:501][831]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:518][832]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.31:803][849]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.37:592][192]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.37:611][193]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.37:628][194]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.37:645][195]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.37:679][197]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.37:729][200]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.37:746][201]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.37:779][203]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:296][234]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:313][235]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:329][236]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:346][237]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:363][238]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:380][239]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:396][240]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:413][241]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:463][244]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:480][245]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:497][246]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:514][247]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:531][248]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:580][251]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:596][252]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:614][253]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:631][254]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:665][256]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:681][257]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:698][258]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:714][259]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:732][260]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:749][261]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:765][262]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:781][263]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:799][264]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:816][265]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:832][266]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:848][267]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:898][270]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:916][271]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:934][272]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:949][273]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:967][274]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.38:983][275]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.39:016][277]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.39:033][278]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.39:050][279]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.39:066][280]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.39:083][281]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.39:100][282]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.39:117][283]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.39:134][284]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.39:150][285]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.39:252][291]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.41:598][431]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.41:865][447]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.43:119][522]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.44:155][584]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.44:306][593]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.44:588][610]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.44:738][619]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.45:589][670]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.45:874][687]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.51:448][ 19]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.51:465][ 20]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.51:481][ 21]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.51:498][ 22]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.51:515][ 23]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.51:531][ 24]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.51:548][ 25]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.51:565][ 26]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.51:582][ 27]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.51:949][ 49]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.51:966][ 50]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:000][ 52]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:017][ 53]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:036][ 54]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:053][ 55]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:069][ 56]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:353][ 73]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:420][ 77]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:436][ 78]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:470][ 80]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:487][ 81]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:504][ 82]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:604][ 88]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:621][ 89]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:638][ 90]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:655][ 91]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:672][ 92]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:690][ 93]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:739][ 96]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.52:822][101]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.53:106][118]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.53:123][119]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.53:141][120]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.53:407][136]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.53:424][137]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.53:843][162]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.55:610][267]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.55:844][281]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:611][447]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:626][448]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:644][449]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:660][450]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:677][451]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:694][452]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:711][453]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:727][454]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:744][455]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:760][456]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:777][457]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:794][458]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:811][459]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:827][460]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:844][461]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:860][462]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:877][463]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:893][464]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:944][467]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:960][468]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:977][469]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.58:994][470]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:011][471]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:027][472]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:043][473]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:060][474]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:077][475]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:094][476]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:110][477]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:294][488]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:310][489]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:328][490]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:345][491]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:363][492]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:380][493]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:396][494]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:413][495]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:430][496]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:447][497]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:464][498]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:481][499]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:497][500]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:547][503]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:564][504]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:581][505]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:597][506]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:681][511]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:697][512]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.32.59:713][513]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.00:134][538]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.00:992][589]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.01:244][604]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.12:790][279]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.13:361][313]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.14:572][385]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.14:722][394]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.19:940][701]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.19:957][702]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:007][705]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:107][711]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:190][716]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:224][718]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:324][724]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:341][725]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:625][742]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:640][743]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:657][744]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:774][751]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:791][752]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:825][754]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:842][755]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:909][759]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:927][760]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.20:960][762]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.21:179][775]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.22:229][837]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.22:430][849]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.23:619][919]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.57:834][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1369.255371
+[2025.05.10-10.33.58:072][975]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.10-10.33.58:072][975]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1369.472534, Update Interval: 344.856720
+[2025.05.10-10.33.59:476][ 60]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:493][ 61]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:510][ 62]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:527][ 63]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:545][ 64]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:561][ 65]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:578][ 66]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:595][ 67]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:612][ 68]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:629][ 69]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:648][ 70]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:665][ 71]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:682][ 72]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:699][ 73]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:716][ 74]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:733][ 75]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:750][ 76]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:767][ 77]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:784][ 78]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:802][ 79]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:817][ 80]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:835][ 81]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:852][ 82]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:868][ 83]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:885][ 84]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:902][ 85]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:919][ 86]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:936][ 87]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:953][ 88]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.33.59:970][ 89]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.00:222][104]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.01:638][188]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.01:904][204]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.03:159][279]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.05:644][425]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.OffsetNoiseDistanceFields_ForNormals
+[2025.05.10-10.34.13:858][778]LogSlate: Window 'OffsetNoiseDistanceFields_ForNormals' being destroyed
+[2025.05.10-10.34.13:863][778]LogSlate: Window 'OffsetNoiseDistanceFields_ForNormals' being destroyed
+[2025.05.10-10.34.25:070][440]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.OffsetNoiseDistanceFields_ForNormals
+[2025.05.10-10.34.27:659][568]LogSlate: Window 'OffsetNoiseDistanceFields_ForNormals' being destroyed
+[2025.05.10-10.34.39:068][192]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.OffsetNoiseDistanceFields_ForNormals (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 25.000 MB), EncodeSpeed: Final
+[2025.05.10-10.34.41:278][322]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.41:541][336]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.46:738][642]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.OffsetNoiseDistanceFields_ForNormals (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 25.000 MB), EncodeSpeed: Final
+[2025.05.10-10.34.47:705][696]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.47:859][705]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.49:592][806]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.OffsetNoiseDistanceFields_ForNormals (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 25.000 MB), EncodeSpeed: Final
+[2025.05.10-10.34.50:497][857]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.50:634][865]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.57:322][260]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.OffsetNoiseDistanceFields_ForNormals (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 25.000 MB), EncodeSpeed: Final
+[2025.05.10-10.34.59:362][379]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.34.59:518][388]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.06:323][790]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.OffsetNoiseDistanceFields_ForNormals (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 25.000 MB), EncodeSpeed: Final
+[2025.05.10-10.35.07:570][861]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.07:838][877]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.25:298][921]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.OffsetNoiseDistanceFields_ForNormals (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 25.000 MB), EncodeSpeed: Final
+[2025.05.10-10.35.26:637][999]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.26:971][ 19]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.28:225][ 94]Cmd: TRANSACTION UNDO
+[2025.05.10-10.35.28:225][ 94]LogEditorTransaction: Undo Set Brush Can Affect Heightmap
+[2025.05.10-10.35.28:267][ 94]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.28:830][115]Cmd: TRANSACTION UNDO
+[2025.05.10-10.35.28:830][115]LogEditorTransaction: Undo Set Brush Can Affect Heightmap
+[2025.05.10-10.35.28:849][115]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.29:254][139]Cmd: TRANSACTION UNDO
+[2025.05.10-10.35.29:254][139]LogEditorTransaction: Undo Edit Brightness Curve
+[2025.05.10-10.35.30:749][223]LogTexture: Display: Building textures: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.OffsetNoiseDistanceFields_ForNormals (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 25.000 MB), EncodeSpeed: Final
+[2025.05.10-10.35.31:817][282]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.32:118][300]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.34:144][418]Cmd: TRANSACTION UNDO
+[2025.05.10-10.35.34:144][418]LogEditorTransaction: Undo Set Brush Can Affect Heightmap
+[2025.05.10-10.35.34:176][418]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.34:605][427]Cmd: TRANSACTION UNDO
+[2025.05.10-10.35.34:605][427]LogEditorTransaction: Undo Set Brush Can Affect Heightmap
+[2025.05.10-10.35.34:625][427]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.35:253][462]Cmd: TRANSACTION UNDO
+[2025.05.10-10.35.35:253][462]LogEditorTransaction: Undo Edit Brightness Curve
+[2025.05.10-10.35.45:077][ 39]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.45:229][ 48]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.35.53:615][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.10-10.35.53:623][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.10-10.35.53:705][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.05.10-10.35.53:763][536]LogSavePackage: Moving output files for package: /Game/TestScenes/Test_Scene
+[2025.05.10-10.35.53:769][536]LogSavePackage: Moving '../../../../../../Users/taoma/Documents/Unreal Projects/After_Rotten_Battle/Saved/Test_Scene80B1814C44618BBD3AE13DABBE3019C4.tmp' to '../../../../../../Users/taoma/Documents/Unreal Projects/After_Rotten_Battle/Content/TestScenes/Test_Scene.umap'
+[2025.05.10-10.35.53:796][536]LogFileHelpers: Saving map 'Test_Scene' took 0.136
+[2025.05.10-10.35.53:797][536]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals] ([1] browsable assets)...
+[2025.05.10-10.35.53:832][536]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.OffsetNoiseDistanceFields_ForNormals]
+[2025.05.10-10.35.53:833][536]OBJ SavePackage: Finished generating thumbnails for package [/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals]
+[2025.05.10-10.35.53:892][536]LogSavePackage: Moving output files for package: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals
+[2025.05.10-10.35.53:893][536]LogSavePackage: Moving '../../../../../../Users/taoma/Documents/Unreal Projects/After_Rotten_Battle/Saved/OffsetNoiseDistanceFields_ForNor038D64624871535E931D3BAE4F3ADA5C.tmp' to '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals.uasset'
+[2025.05.10-10.35.53:906][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 282.980 ms (total: 346.215 ms)
+[2025.05.10-10.35.53:949][536]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.10-10.35.53:949][536]LogContentValidation: Enabled validators:
+[2025.05.10-10.35.53:949][536]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.10-10.35.53:949][536]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.10-10.35.53:949][536]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.10-10.35.53:949][536]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.10-10.35.53:949][536]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.10-10.35.53:949][536]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.10-10.35.53:949][536]AssetCheck: /Game/TestScenes/Test_Scene Validating asset
+[2025.05.10-10.35.53:950][536]AssetCheck: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/OffsetNoiseDistanceFields_ForNormals Validating asset
+[2025.05.10-10.36.00:757][911]LogSlate: Window 'OffsetNoiseDistanceFields_ForNormals' being destroyed
+[2025.05.10-10.36.00:763][911]LogSlate: Window 'OffsetNoiseDistanceFields_ForNormals' being destroyed
+[2025.05.10-10.36.05:345][174]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.10-10.40.14:313][238]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1745.737427
+[2025.05.10-10.40.15:313][241]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.10-10.40.15:313][241]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1746.404663, Update Interval: 345.440857
+[2025.05.10-10.46.44:218][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2135.450928
+[2025.05.10-10.46.45:021][409]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.10-10.46.45:021][409]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2136.111816, Update Interval: 358.535095
+[2025.05.10-10.53.21:274][597]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2532.695312
+[2025.05.10-10.53.22:270][600]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.10-10.53.22:270][600]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2533.358398, Update Interval: 353.926208
+[2025.05.10-10.55.59:391][757]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.10-10.56.39:774][130]LogStreaming: Display: FlushAsyncLoading(983): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.10-10.56.39:791][130]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2025.05.10-10.56.39:899][131]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.56.45:086][411]Blueprint: Warning: DrawMaterialToRenderTarget[/Game/TestScenes/Test_Scene.Test_Scene:PersistentLevel.LandmassBrushManager_C_1]: Material must be non-null.
+[2025.05.10-10.56.50:111][704]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Fab/Megascans/Surfaces/Ground_Rubble_vl3jbbcg/High/MI_vl3jbbcg.MI_vl3jbbcg
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.05.10-10.56.50:121][704]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.05.10-10.56.50:121][704]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.05.10-10.56.50:143][704]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2025.05.10-10.56.50:154][704]LogStreaming: Display: FlushAsyncLoading(984): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.10-10.57.03:084][429]LogSlate: Window 'MI_vl3jbbcg' being destroyed
+[2025.05.10-10.57.03:092][429]LogSlate: Window 'MI_vl3jbbcg' being destroyed
+[2025.05.10-10.57.03:124][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.10-10.57.03:308][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.05.10-10.57.18:570][326]LogStreaming: Display: FlushAsyncLoading(988): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.10-10.57.20:308][401]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Fab/Megascans/Surfaces/Ground_Roots_vliucgi/High/MI_vliucgi.MI_vliucgi
+[2025.05.10-10.57.20:310][401]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.05.10-10.57.27:862][790]LogSlate: Window 'MI_vliucgi' being destroyed
+[2025.05.10-10.57.27:869][790]LogSlate: Window 'MI_vliucgi' being destroyed
+[2025.05.10-10.57.27:902][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.05.10-10.57.27:952][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.10-10.57.32:674][ 66]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Fab/Megascans/Surfaces/Ground_Roots_vliucgi/High/MI_vliucgi.MI_vliucgi
+[2025.05.10-10.57.32:679][ 66]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2025.05.10-10.57.48:775][846]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.10-10.57.50:160][923]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.10-10.58.25:416][880]LogSlate: Window 'MI_vliucgi' being destroyed
+[2025.05.10-10.58.25:451][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.10-10.58.25:498][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.10-10.58.26:641][945]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.10-10.58.38:762][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.10-10.58.40:296][652]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.10-10.58.41:330][652]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Assets/Fab/Megascans/Surfaces/Ground_Roots_vliucgi/High/MI_vliucgi.MI_vliucgi
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/Fab/Megascans/Surfaces/Ground_Roots_vliucgi/High/T_vliucgi_4K_ORM.T_vliucgi_4K_ORM
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Fab/Megascans/Surfaces/Ground_Roots_vliucgi/High/T_vliucgi_4K_N.T_vliucgi_4K_N
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Fab/Megascans/Surfaces/Ground_Roots_vliucgi/High/T_vliucgi_4K_H.T_vliucgi_4K_H
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Fab/Megascans/Surfaces/Ground_Roots_vliucgi/High/T_vliucgi_4K_B.T_vliucgi_4K_B
+	Asset Type: Texture2D
+[2025.05.10-10.58.42:811][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.10-10.58.42:824][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.05.10-10.58.42:835][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.10-10.58.42:918][652]LogAutomationController: Ignoring very large delta of 4.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.10-10.58.46:132][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.10-10.58.46:139][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.10-10.58.46:226][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.10-10.58.46:284][833]LogSavePackage: Moving output files for package: /Game/TestScenes/Test_Scene
+[2025.05.10-10.58.46:288][833]LogSavePackage: Moving '../../../../../../Users/taoma/Documents/Unreal Projects/After_Rotten_Battle/Saved/Test_Scene626A2DCC458C5DBF4D20F0AA9C7816AA.tmp' to '../../../../../../Users/taoma/Documents/Unreal Projects/After_Rotten_Battle/Content/TestScenes/Test_Scene.umap'
+[2025.05.10-10.58.46:307][833]LogFileHelpers: Saving map 'Test_Scene' took 0.134
+[2025.05.10-10.58.46:307][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Fab/Megascans/Surfaces/Ground_Rubble_vl3jbbcg/High/MI_vl3jbbcg] ([1] browsable assets)...
+[2025.05.10-10.58.46:351][833]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Fab/Megascans/Surfaces/Ground_Rubble_vl3jbbcg/High/MI_vl3jbbcg.MI_vl3jbbcg]
+[2025.05.10-10.58.46:351][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Fab/Megascans/Surfaces/Ground_Rubble_vl3jbbcg/High/MI_vl3jbbcg]
+[2025.05.10-10.58.46:354][833]LogSavePackage: Moving output files for package: /Game/Assets/Fab/Megascans/Surfaces/Ground_Rubble_vl3jbbcg/High/MI_vl3jbbcg
+[2025.05.10-10.58.46:356][833]LogSavePackage: Moving '../../../../../../Users/taoma/Documents/Unreal Projects/After_Rotten_Battle/Saved/MI_vl3jbbcg733A078646D4D30059A375BAE312F1EC.tmp' to '../../../../../../Users/taoma/Documents/Unreal Projects/After_Rotten_Battle/Content/Assets/Fab/Megascans/Surfaces/Ground_Rubble_vl3jbbcg/High/MI_vl3jbbcg.uasset'
+[2025.05.10-10.58.46:370][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 232.260 ms (total: 578.476 ms)
+[2025.05.10-10.58.46:412][833]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.10-10.58.46:412][833]LogContentValidation: Enabled validators:
+[2025.05.10-10.58.46:412][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.10-10.58.46:412][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.10-10.58.46:413][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.10-10.58.46:413][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.10-10.58.46:413][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.10-10.58.46:413][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.10-10.58.46:413][833]AssetCheck: /Game/TestScenes/Test_Scene Validating asset
+[2025.05.10-10.58.46:413][833]AssetCheck: /Game/Assets/Fab/Megascans/Surfaces/Ground_Rubble_vl3jbbcg/High/MI_vl3jbbcg Validating asset
+[2025.05.10-10.58.48:191][936]LogFab: Display: {
+	"interactionType": "Open Tab",
+	"eventCategory": "Plugin",
+	"eventAction": "Click"
+}
+[2025.05.10-10.58.48:365][936]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2025.05.10-10.58.48:383][936]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.05.10-10.58.51:549][106]LogFab: Display: Delete persist auth
+[2025.05.10-10.58.51:784][120]LogFab: Display: Persistent auth deleted
+[2025.05.10-10.59.47:726][431]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2919.156250
+[2025.05.10-10.59.47:978][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.10-10.59.47:978][446]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2919.392090, Update Interval: 354.444397
+[2025.05.10-10.59.48:801][495]LogFab: Display: Asset Type = gltf
+[2025.05.10-10.59.48:801][495]LogFab: Display: Is Quixel = 1
+[2025.05.10-10.59.52:568][704]LogSlate: Window 'Fab' being destroyed
+[2025.05.10-10.59.52:577][704]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.05.10-10.59.52:577][704]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/11eef52b-2c9b-4123-b4de-df266f4ac044.
+[2025.05.10-11.00.35:055][631]LogStreaming: Display: FlushAsyncLoading(989): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.10-11.00.35:269][631]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.05.10-11.00.35:270][631]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/taoma/AppData/Local/Temp/FabLibrary/11eef52b-2c9b-4123-b4de-df266f4ac044/soil_mud_seymaixa_4k_ue_high_extracted/seymaixa_tier_1.gltf]
+[2025.05.10-11.00.35:615][633]LogStreaming: Display: FlushAsyncLoading(1025): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.10-11.00.35:956][635]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.05.10-11.00.36:280][635]LogStreaming: Display: FlushAsyncLoading(1029): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.10-11.00.36:855][636]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 873.765625 MiB 
+[2025.05.10-11.00.36:856][636]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 873.617188 MiB 
+[2025.05.10-11.00.36:866][637]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Soil_Mud_seymaixa/High/T_seymaixa_4K_N.T_seymaixa_4K_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.10-11.00.37:185][638]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 833.042969 MiB 
+[2025.05.10-11.00.37:186][638]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 834.933594 MiB 
+[2025.05.10-11.00.37:199][638]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Soil_Mud_seymaixa/High/T_seymaixa_4K_ORM.T_seymaixa_4K_ORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.10-11.00.37:497][639]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 799.273438 MiB 
+[2025.05.10-11.00.37:497][639]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 799.234375 MiB 
+[2025.05.10-11.00.37:507][639]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Soil_Mud_seymaixa/High/T_seymaixa_4K_B.T_seymaixa_4K_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.10-11.00.37:820][640]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Soil_Mud_seymaixa/High/T_seymaixa_4K_H.T_seymaixa_4K_H (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 528.999992 MB), EncodeSpeed: Fast
+[2025.05.10-11.00.38:293][641]LogInterchangeEngine: Display: Interchange import completed [C:/Users/taoma/AppDa...4k_ue_high_extracted/seymaixa_tier_1.gltf]

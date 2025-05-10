@@ -1,6 +1,3 @@
-[0510/113011.203:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Nieprawid³owy klucz do u¿ycia w podanym stanie. (0x8009000B)
-[0510/113012.935:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0510/113211.564:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0510/113228.859:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 451
-[0510/113228.868:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 453
-[0510/113236.658:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 477
+[0510/125850.029:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0510/125852.162:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 47
+[0510/130048.897:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
