@@ -1,3 +1,0 @@
-[0510/130437.472:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0510/130438.175:WARNING:storage_block-inl.h(146)] Failed data load.
-[0510/130438.369:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
